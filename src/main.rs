@@ -41,7 +41,7 @@ fn hash(entity: &[u8], hashed_size: usize, salt_param: Option<&[u8]>) -> String 
     mac.update(entity);
     let digest = mac.finalize().into_bytes();
     let finalhash = &b64_vec_encode(&digest)[..hashed_size];
-    return str::from_utf8(&finalhash).unwrap().to_string();
+    return str::from_utf8(&finalhash).unwrap().to_string();git 
 }
 
 /// A program to encrypt the IP addresses in web server logs, to be used within an Apache CustomLog line
