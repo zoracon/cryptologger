@@ -1,0 +1,10 @@
+3/zt73GI - - [11/Apr/2025:10:45:01 +0000] "GET /index.html HTTP/1.1" 200 1024
+2001:0db8:85a3::8a2e:0370:7334 - - [11/Apr/2025:10:45:03 +0000] "POST /login HTTP/1.1" 302 512
+NXCz8KTY - - [11/Apr/2025:10:45:04 +0000] "GET /dashboard HTTP/1.1" 200 2048
+fe80::1ff:fe23:4567:890a - - [11/Apr/2025:10:45:05 +0000] "GET /images/logo.png HTTP/1.1" 200 5432
+::1 - - [11/Apr/2025:10:45:06 +0000] "GET /about.html HTTP/1.1" 404 321
+1yHLC3Nr - - [11/Apr/2025:10:45:07 +0000] "GET /css/style.css HTTP/1.1" 200 768
+2001:db8::1 - - [11/Apr/2025:10:45:08 +0000] "GET /scripts/app.js HTTP/1.1" 200 1337
+xDXiTXmx - - [11/Apr/2025:10:45:09 +0000] "GET /contact.html HTTP/1.1" 200 890
+fd00::abcd - - [11/Apr/2025:10:45:10 +0000] "GET /api/data HTTP/1.1" 500 111
+0jNxZI8W - - [11/Apr/2025:10:45:11 +0000] "GET /robots.txt HTTP/1.1" 200 68
